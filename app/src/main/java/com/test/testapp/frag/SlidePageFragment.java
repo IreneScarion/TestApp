@@ -73,23 +73,23 @@ public class SlidePageFragment extends Fragment {
         switch (pos){
 
             case 0:
-                picha.setImageResource(R.drawable.image4);
+                picha.setImageResource(R.drawable.planets);
 
                 break;
 
             case 1:
-                picha.setImageResource(R.drawable.image3);
+                picha.setImageResource(R.drawable.fifthprezy);
 
                 break;
 
             case 2:
-                picha.setImageResource(R.drawable.image5);
+                picha.setImageResource(R.drawable.nationalflag);
 
                 break;
 
             case 3:
 
-                picha.setImageResource(R.drawable.image6);
+                picha.setImageResource(R.drawable.firstpresident);
 
 
                 break;
